@@ -2,4 +2,4 @@ I am a first year math student at the University of Washington. Outside of math 
 
 Austin / discord:austinu / Washington. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Here you can find my Instagram <i class="fa-brands fa-instagram"></i>([https://www.instagram.com/austinulrigg/?hl=en]), and here you can read about some math I've been doing 
+Here you can find my Instagram [https://www.instagram.com/austinulrigg/?hl=en] and here you can read about some math I've been doing 
