@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a first year Math student at the University of Washington. I am taking Complex Analysis, Modern Algebra, and [MATH563](https://math.washington.edu/courses/2024/spring/math/563/a) Outside of math, I enjoy working out, being outside, spending time with my 3 dogs, and Star Wars. 
 
-Here's an invite to past study groups I've led in [complex analysis using Stein & Shakarchi](https://discord.gg/AgRT6ZFC) and [real analysis using Follands Adv. Calculus](https://discord.gg/fwn8gEEH). 
+Here's an invite to past undergraduate reading groups I've led in [complex analysis using Stein & Shakarchi](https://discord.gg/AgRT6ZFC) and [real analysis using Follands Adv. Calculus](https://discord.gg/fwn8gEEH). 
 
 Here you can find my Instagram too [Instagram](https://www.instagram.com/austinulrigg/?hl=en). 
 
