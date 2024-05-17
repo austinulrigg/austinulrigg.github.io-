@@ -22,6 +22,6 @@ I am a first year Math student at the University of Washington. I am taking Comp
 
 Here's an invite to past study groups I've led in [complex analysis using Stein & Shakarchi](https://discord.gg/AgRT6ZFC) and [real analysis using Follands Adv. Calculus](https://discord.gg/fwn8gEEH). 
 
-Here you can find my instagram too [instagram](https://www.instagram.com/austinulrigg/?hl=en). 
+Here you can find my Instagram too [Instagram](https://www.instagram.com/austinulrigg/?hl=en). 
 
 
